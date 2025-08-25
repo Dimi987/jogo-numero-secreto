@@ -14,4 +14,4 @@
 
 #Time
 
-<img alt="Foto Perfil" src="https://avatars.githubusercontent.com/u/104279562?v=4" width=110>
+<img alt="Foto Perfil" src="https://avatars.githubusercontent.com/u/104279562?v=4" width=110><br><sub>Dimitri Abranches</sub>
